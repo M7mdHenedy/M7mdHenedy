@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Getting Internship**
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/mohamedhenedy](https://www.kaggle.com/mohamedhenedy)
+- 👨‍💻 All of my projects are available at [https://github.com/M7mdHenedy](https://github.com/M7mdHenedy)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-henedy-67642820a/](https://www.linkedin.com/in/mohamed-henedy-67642820a/)
 
