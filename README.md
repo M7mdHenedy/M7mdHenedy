@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Henedy</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning & Deep Learning**
+- 🌱 I’m currently learning **Data Science: (Data Analysis, Machine Learning & Deep Learning)**
 
 - 👯 I’m looking to collaborate on **Startups**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-henedy-67642820a/](https://www.linkedin.com/in/mohamed-henedy-67642820a/)
 
-- 💬 Ask me about **Data Science , Machine Learning , Deep Learning , MySQL ,Excel ,NumPy ,Pandas , Matplotlib , Seaborn , SKlearn , Tensor Flow**
+- 💬 Ask me about **Data Science , Machine Learning , Deep Learning , MySQL ,Excel ,NumPy ,Pandas , Matplotlib , Seaborn , SKlearn , Tensor Flow , Power BI**
 
 - 📫 How to reach me **mohamedkhhenedy@gmail.com**
 
