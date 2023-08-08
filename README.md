@@ -5,13 +5,13 @@
 
 - 👯 I’m looking to collaborate on **Startups**
 
-- 🤝 I’m looking for help with **Getting Internship**
+- 🤝 I’m looking for help with **Getting Internships and Job opportunities**
 
 - 👨‍💻 All of my projects are available at [https://github.com/M7mdHenedy?tab=repositories](https://github.com/M7mdHenedy?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-henedy-67642820a/](https://www.linkedin.com/in/mohamed-henedy-67642820a/)
 
-- 💬 Ask me about **Data Science , Machine Learning , Deep Learning , MySQL ,Excel ,NumPy ,Pandas , Matplotlib , Seaborn , SKlearn , Tensor Flow , Power BI**
+- 💬 Ask me about **Data Analysis , Machine Learning , Deep Learning , MySQL ,Excel ,Power BI ,NumPy ,Pandas , Matplotlib , Seaborn , SKlearn , Tensor Flow**
 
 - 📫 How to reach me **mohamedkhhenedy@gmail.com**
 
